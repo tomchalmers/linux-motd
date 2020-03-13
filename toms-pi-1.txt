@@ -6,4 +6,6 @@
    ██║   ╚██████╔╝██║ ╚═╝ ██║███████║              ██║     ██║
    ╚═╝    ╚═════╝ ╚═╝     ╚═╝╚══════╝              ╚═╝     ╚═╝                                                  
 
-Raspberry Pi Linux
+Raspberry Pi 1 B (2012) 512MB RAM 700Mhz CPU
+
+Raspbian Buster (2020-02-13)
