@@ -6,6 +6,4 @@
    ██║   ╚██████╔╝██║ ╚═╝ ██║███████║              ██║     ██║
    ╚═╝    ╚═════╝ ╚═╝     ╚═╝╚══════╝              ╚═╝     ╚═╝                                                  
 
-Raspberry Pi 4 B (2019) 2GB RAM 1.5GHz CPU
-
-Ubuntu Server (18.04.4)
+Raspberry Pi 4 B (2019) ---- 2GB RAM 1.5GHz CPU ---- Ubuntu Server (18.04.4)
